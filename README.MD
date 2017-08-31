@@ -4,7 +4,7 @@
 
 ## Install
 ```
-npm install --save-dev git@github.com:gpincheiraa/html-loader-jest.git
+npm install --save-dev github:gpincheiraa/html-loader-jest
 ```
 ## Integration with jest
 
