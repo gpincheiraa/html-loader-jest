@@ -1,6 +1,6 @@
 {
   "name": "html-loader-jest",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "integration of html-loader package with jest ",
   "main": "index.js",
   "scripts": {
